@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - claude/carcara-landing-page-011CUuBRXtcE1P7wtMRqNyzr
+      - claude/deploy-page-github-011CUuHRAsGCvMDZDu54YPrz
       - main
   workflow_dispatch:
 
