@@ -195,3 +195,5 @@ Para dúvidas ou sugestões sobre a landing page:
 ---
 
 **Desenvolvido com ❤️ para transformar vendas através da IA**
+
+<!-- Deploy trigger -->
